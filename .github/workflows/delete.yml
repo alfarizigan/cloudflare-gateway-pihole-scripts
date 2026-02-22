@@ -1,4 +1,4 @@
-name: Delete filter lists
+name: Delete Filter Lists
 
 on:
   workflow_dispatch:
